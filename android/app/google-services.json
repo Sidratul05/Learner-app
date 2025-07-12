@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104627708781",
+    "project_id": "learner-16add",
+    "storage_bucket": "learner-16add.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104627708781:android:8b23e283dc936ad2f33064",
+        "android_client_info": {
+          "package_name": "com.learner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEe0zWQ-VOtSwxYzrvuE17-3La7PsLJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
